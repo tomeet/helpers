@@ -1,0 +1,17 @@
+{
+    "name": "tomeet/helpers",
+    "description": "Some helper functions.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tomeet",
+            "email": "tomeet@sohu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
